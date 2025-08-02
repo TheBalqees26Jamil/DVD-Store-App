@@ -1,0 +1,45 @@
+{
+    "dvds": [
+        {
+            "title": "Tragdy",
+            "stars": [
+                "jon"
+            ],
+            "producer": "william",
+            "director": "sam",
+            "production_company": "WME",
+            "num_copies": 0
+        },
+        {
+            "title": "Action Movie",
+            "stars": [
+                "alic & bob"
+            ],
+            "producer": "jane",
+            "director": "tom",
+            "production_company": "XYZ Films",
+            "num_copies": 5
+        },
+        {
+            "title": "Romantic",
+            "stars": [
+                "Micheal & lucy"
+            ],
+            "producer": "Sarah",
+            "director": "emma",
+            "production_company": "Love Production",
+            "num_copies": 10
+        },
+        {
+            "title": "Adventure",
+            "stars": [
+                "The Rock"
+            ],
+            "producer": "Sedr",
+            "director": "emma",
+            "production_company": "Adventure Com",
+            "num_copies": 9
+        }
+    ],
+    "customers": []
+}
